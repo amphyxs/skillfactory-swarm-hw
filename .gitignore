@@ -1,0 +1,7 @@
+join.sh
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+join.sh
+key.json
+/.terraform
